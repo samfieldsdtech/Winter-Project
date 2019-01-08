@@ -9,3 +9,7 @@ h3 {
 	font-size: 4em;
 	font-family: searchfield-cancel-button;
 }
+.column {
+	float: left;
+	width: 50%;
+}
