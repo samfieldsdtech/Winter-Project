@@ -1,4 +1,16 @@
 body {
 	font-size: 0.8em;
 	font-family: arial, sans-serif;
+	background: darkgrey;
+}
+h3 {
+	font-size: 4em;
+	font-family: searchfield-cancel-button;
+}
+.column {
+	float: left;
+	width: 50%;
+}
+a {
+	font-size: 2em;
 }

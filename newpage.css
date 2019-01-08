@@ -1,0 +1,16 @@
+body {
+	font-size: 0.8em;
+	font-family: arial, searchfield-results-button;
+	background: lightcyan;
+}
+h3 {
+	font-size: 6em;
+	font-family: self-start;
+}
+a {
+	font-size: 2em;
+}
+.column {
+	float: right;
+	width: 50%;
+}
